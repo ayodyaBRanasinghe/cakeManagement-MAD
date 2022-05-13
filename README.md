@@ -1,3 +1,3 @@
 # :cake: cakeManagement-MAD
 
-SLIIT - 2year 2sem - MADproject - :octocat:
+[SLIIT](https://www.sliit.lk/about/campuses-centers/malabe-campus/) - 2year 2sem - MADproject - :octocat:
