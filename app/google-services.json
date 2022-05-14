@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224905426039",
+    "project_id": "warmdelightapp-9c306",
+    "storage_bucket": "warmdelightapp-9c306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224905426039:android:b8d659712fe2a958654272",
+        "android_client_info": {
+          "package_name": "com.warmdelightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224905426039-a86o8bl20oannhv0ni6frt5tb07rtc7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFz62XQWs9AW2a28hIj-gL6a7MEp7ELQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224905426039-a86o8bl20oannhv0ni6frt5tb07rtc7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_add_address.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_address.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_create_giftpack.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_delivery.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_edit_address.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_giftpack_details.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_giftpack_details_edit.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_giftpack_details_user.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_giftpacks.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_giftpacks_admin.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_home_page.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_login.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_main.xml" value="0.190625" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_order_details.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_order_details_edit.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_orders.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_profit_calculator.xml" value="0.2046875" />
+        <entry key="..\:/Users/lavin/WarmDelightApp/app/src/main/res/layout/activity_register.xml" value="0.2046875" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_add_address.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_address.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_cake_details.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_cake_details_edit.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_cake_details_user.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_cakes.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_cakes_admin.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_create_cake.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_order_details.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_order_details_edit.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_orders.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_profit_calculator.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/cake_card_admin.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/cake_card_user.xml" value="0.1" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/delivery_card_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/my pc/Desktop/WarmDelightApp/app/src/main/res/layout/order_card_user.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
